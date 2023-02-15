@@ -1,0 +1,21 @@
+
+
+body {
+background-color: #EEE8AA;
+}
+
+h1,
+p,
+ul,
+ol,
+h2 {
+text-align: center;
+font-size: 24;
+}
+
+
+h1 {
+font-size: 48px;
+color: #6A5ACD;
+}
+
